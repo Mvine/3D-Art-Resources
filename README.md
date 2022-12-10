@@ -23,7 +23,7 @@ No code in this repo, this is an active list of resources that I use and want to
 ## **Improving at 3D Blockouts**
 - Good high level overview of how to do your design work straight from imagination to 3D if you don't have a concept artist
 
-    ### https://www.youtube.com/watch?v=zugmbKkPZrY&t=191s&ab_channel=PonteRyuurui
+    ### https://www.youtube.com/watch?v=zugmbKkPZrY&ab_channel=PonteRyuurui
 
 ## **Artstation Learning UE5 Environment Production (free with Artstation plus?)**
 - More advanced and high end UE5 stuff but if it interests you here it is
