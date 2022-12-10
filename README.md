@@ -95,6 +95,11 @@ No code in this repo, this is an active list of resources that I use and want to
 - Mostly learned about the basics of Zbrush from this guy
 
     ### https://www.youtube.com/channel/UC6WvKGGaQcPcBH8tK0Xur4w
+    
+## **Dekogon Artstation Learning Channel (free with Artstation Plus)**
+- SOOO many tutorials from industry pros
+- Cover every 3D topic there is
+    ### https://www.artstation.com/learning/instructors/dekogon-studios
 
 <br></br>
 <h1 style="font-size: 40pt;font-weight: bold">Blender Add-Ons</h1>
