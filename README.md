@@ -37,7 +37,7 @@ No code in this repo, this is an active list of resources that I use and want to
 - By the team and former employees at Dekogon, an art outsource studio
 - Very in depth for specific processes and production pipelines
 
-    ### https://magazine.artstation.com/2021/10/artstation-learning-environment-production/
+    ### https://www.artstation.com/learning/courses/0ol/introduction-to-modular-architecture/chapters/zYEK/intro
 
 ## **Artstation Learning Vehicle Production (free with Artstation plus?)**
 - Also created by an artist at Dekogon for their learning series
