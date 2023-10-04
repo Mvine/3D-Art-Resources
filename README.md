@@ -102,5 +102,63 @@ No code in this repo, this is an active list of resources that I use and want to
     ### https://www.artstation.com/learning/instructors/dekogon-studios
 
 <br></br>
-<h1 style="font-size: 40pt;font-weight: bold">Blender Add-Ons</h1>
+<h1 style="font-size: 40pt;font-weight: bold">Blender Add-Ons (What I consider essential)</h1>
+
+## **MESHMachine ($40 USD)**
+- To me personally, the single most important add-on on this list. The one I use by far the most frequently and the reason I prefer to work without subdivisions.
+- Has completely integrated into my workflow, and infact is the core of it. The rest of my process when modeling is build around this add-on.
+- Most add-ons speed blender features up, this one has entirely new features. My key ones are instant mirroring to allow a more Maya akin workflow and reverting bevels making it easier to work with realized topology instead of abstracted modifier topology.
+
+    ### https://blendermarket.com/products/uvpackmaster
+  
+## **Hardops / BoxCutter ($44 USD for the pro version)**
+- Adds a ton of new tools that are incredibly powerful and especially useful for hard surface modeling
+- These two usually can be bought as a package and I recommend getting them together
+- Will change your workflow without a doubt
+
+    ### https://blendermarket.com/products/hard-ops--boxcutter-ultimate-bundle
+
+### https://blendermarket.com/products/meshmachine
+
+## **UV Packmaster 3 PRO ($44 USD for the pro version)**
+- Uses algorithms to pack UVs as efficiently as possible
+- Will become a core part of your workflow without a doubt
+
+    ### https://blendermarket.com/products/uvpackmaster
+
+## **Texel Density Checker (free)**
+- Let's you easily make sure your texel density is consistant throughout your scenes / models
+
+    ### https://mrven.gumroad.com/l/CEIOR
+  
+## **Tex Tools (free)**
+- Ported from 3DS Max, is an incredible UV toolset for smoothing, grouping, straightening and nearly anything else you could want to do with UVs
+
+    ### https://github.com/SavMartin/TexTools-Blender
+
+  <br></br>
+<h1 style="font-size: 40pt;font-weight: bold">Blender Add-Ons (Extra spice and things that are nice)</h1>
+
+## **Retopoflow ($85 USD)**
+- Best retopology tools for blender on the market right now
+- You can accomplish everything that retopo flow does with basic blender but it speeds things up alot
+  
+    ### https://blendermarket.com/products/retopoflow
+
+## **UV Flow ($24 USD)**
+- Makes UV unwrapping much faster and allows things like live updating, integrated texel checker while UVing and more
+- Lets you customize what seams look like which might help you visualize islands better if you struggle with that
+  
+    ### https://blendermarket.com/products/uv-flow/?ref=463
+  
+## **Cablerator ($14 USD)**
+- Create cables and other hanging features really easily
+
+     ### https://blendermarket.com/products/cbl
+
+## **Decal Machine ($50 USD)**
+- Create decals which are basically cards that sit on top of meshes to fake detailed geometry and make better use of tiling textures and trimsheets
+
+     ### https://www.blendermarket.com/products/DECALmachine
+
 
