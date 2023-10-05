@@ -111,7 +111,7 @@ No code in this repo, this is an active list of resources that I use and want to
 
     ### https://blendermarket.com/products/uvpackmaster
   
-## **Hardops / BoxCutter ($44 USD for the pro version)**
+## **Hardops / BoxCutter ($35 USD for both)**
 - Adds a ton of new tools that are incredibly powerful and especially useful for hard surface modeling
 - These two usually can be bought as a package and I recommend getting them together
 - Will change your workflow without a doubt
