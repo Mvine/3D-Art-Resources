@@ -109,7 +109,7 @@ No code in this repo, this is an active list of resources that I use and want to
 - Has completely integrated into my workflow, and infact is the core of it. The rest of my process when modeling is build around this add-on.
 - Most add-ons speed blender features up, this one has entirely new features. My key ones are instant mirroring to allow a more Maya akin workflow and reverting bevels making it easier to work with realized topology instead of abstracted modifier topology.
 
-    ### https://blendermarket.com/products/uvpackmaster
+    ### https://blendermarket.com/products/meshmachine
   
 ## **Hardops / BoxCutter ($35 USD for both)**
 - Adds a ton of new tools that are incredibly powerful and especially useful for hard surface modeling
@@ -117,8 +117,6 @@ No code in this repo, this is an active list of resources that I use and want to
 - Will change your workflow without a doubt
 
     ### https://blendermarket.com/products/hard-ops--boxcutter-ultimate-bundle
-
-### https://blendermarket.com/products/meshmachine
 
 ## **UV Packmaster 3 PRO ($44 USD for the pro version)**
 - Uses algorithms to pack UVs as efficiently as possible
